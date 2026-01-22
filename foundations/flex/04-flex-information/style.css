@@ -11,6 +11,10 @@ img {
   font-size: 36px;
   font-weight: 900;
 }
+.title{
+  display: flex;
+  justify-content: center;
+}
 
 /* do not edit this footer */
 .footer {
@@ -23,4 +27,15 @@ img {
   align-items: center;
   justify-content: center;
   background: #eee;
+}
+
+
+.main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-boxes{
+  padding: 12px;
 }
